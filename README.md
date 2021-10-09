@@ -1,1 +1,0 @@
-# 1-10-arasindaki-sayilarin-carpim-tablosu
